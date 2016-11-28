@@ -1,3 +1,3 @@
 # hello-world
-My Hello World repo
+My Hello World repo App
 # Author Mark Morris
